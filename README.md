@@ -2,7 +2,7 @@
 
 # Language Name 
 ```python
-Fire(Python + C)
+Fire(P(F)ython + C)
 ```
 # Data Type
 ```python
