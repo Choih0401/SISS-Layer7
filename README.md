@@ -14,5 +14,6 @@ str, int, float
 # Function
 ```python
 def(a,b){
+
 }
 ```
