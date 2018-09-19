@@ -5,7 +5,7 @@ Linux System programming
 
 # Language Name 
 ```python
-Fire(P(F)ython + C)
+Fire(Python + C)
 ```
 # Data Type
 ```python
