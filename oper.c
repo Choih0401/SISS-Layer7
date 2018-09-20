@@ -30,7 +30,10 @@ void vartype(char arr[]) {
 	}
 	if (ptr != NULL) {
 		ptr = strtok(NULL, ";");
-		if (!strncmp(type, "int", 3)) {
+		if (ptr == NULL) {
+			printf("Error\n");
+		}
+		else if (!strncmp(type, "int", 3)) {
 			intvar = atoi(ptr);
 			printf("%d\n", intvar);
 		}
